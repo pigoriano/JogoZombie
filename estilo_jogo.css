@@ -1,0 +1,69 @@
+canvas
+ {
+	position:absolute;
+	top: 400px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	margin: auto;
+}
+
+body 
+ {
+	background-color:#000;
+	font:verdana;
+	font-size:16px;
+}
+
+section
+ {
+	width:1026px;
+	margin:auto;
+}
+
+header 
+ {
+	height:200px;
+ 	background-image:url(header.png);
+}
+
+nav
+ {
+	width:100%;
+	background-color:#900;
+	text-align:center;
+}
+
+article
+ {
+	width:100%;
+	height:100%;
+	background-color:#ccc;
+	text-align:center;
+}
+
+#menu 
+ {
+	height:25px;
+}
+
+h1 
+ {
+color:#C93;
+}
+
+a 
+ {
+	color:#000; 
+	text-decoration:none; 
+	font-size:18px; 
+	background-color:#FFF; 
+	padding:1px; border:#000 
+	solid 1px; margin:4px;
+}
+
+a:hover
+ {
+	color:#900; 
+	background-color:#FC9;
+}
